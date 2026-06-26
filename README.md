@@ -14,14 +14,15 @@ It also lets me automatically post to all my socials, including (for now) [Twitt
 - **Graphics**: Heavily modified matplotlib and Seaborn
 
 ## 📊 Stats
-- ±40 graphs made each race weekend
-- 9200+ followers on Twitter
-- 1200+ followers on Telegram
-- 400+ followers on Instagram
+- ±45 graphs made each race weekend
+- 12600+ followers on Twitter
+- 2000+ followers on Telegram
+- 750+ followers on Instagram
 
 ## 🏆 Featured on
 - Sky Italia (on TV)
 - [Motorsport.com Italia](https://it.motorsport.com/)
+- [RacingNews365](https://racingnews365.com/)
 - [F1inGenerale](https://f1ingenerale.com/)
 - [PaddockNews24](https://paddocknews24.com/author/pesaventofilippo)
 - ...and many others on the web!
